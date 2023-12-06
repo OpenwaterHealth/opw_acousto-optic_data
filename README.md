@@ -18,7 +18,7 @@ Within this repository are a variety of original datasets acquired with the Open
 
 ## Data Processing and Displaying
 To process and display the datasets, please see the 
-[python script](https://github.com/OpenwaterInternet/opw_acousto-optic_sw/) in the opw_acousto-optic_sw repository.
+[ao_viewer.py](https://github.com/OpenwaterInternet/opw_acousto-optic_sw/) script in the opw_acousto-optic_sw repository.
 
 ## Additional acousto-optic repositories here:
 - [Link to the hardware repository](https://github.com/OpenwaterInternet/opw_acousto-optic_hw/)
