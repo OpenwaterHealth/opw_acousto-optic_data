@@ -23,3 +23,6 @@ To process and display the datasets, please see the
 ## Additional acousto-optic repositories here:
 - [Link to the hardware repository](https://github.com/OpenwaterInternet/opw_acousto-optic_hw/)
 - [Link to the software repository repo](https://github.com/OpenwaterInternet/opw_acousto-optic_sw/)
+
+## License
+opw_acousto-optic_data is licensed under the GNU Affero General Public License v3.0. See [LICENSE](LICENSE) for details.
